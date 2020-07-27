@@ -193,7 +193,7 @@ box-shadow: 0 1px 5px 1px #cccccc;
     }
 }
 
-@media (min-width: 478px) and (max-width: 991px) {
+@media (min-width: 78px) and (max-width: 991px) {
     .jumbotron {
         background: url('../img/Cakes/A.jpg') no-repeat rgb(89, 57, 177) center 50px;
         text-align: center;
